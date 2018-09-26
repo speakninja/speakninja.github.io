@@ -5,6 +5,7 @@ titles:
 key: page-about
 ---
 
+Here is about page for speakninja, please enjoy!
 
 ## What is speakninja
 Speakninja is opensource newsletter, we deliver resources of Public Speaking in Science Technology Engineering Math (STEM) straight to your 📥 inbox. We want to answer fancy 🎩 people like question like how start public speaking in Tech Industry? which conferences are looking for speakers? how to deliver a talk? or need recommendation of public speaking resources?.
