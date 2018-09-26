@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: Season 1
+  en: Tech Speaker Newsletter - Season 1
 key: page-about
 ---
 
