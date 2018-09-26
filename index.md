@@ -13,7 +13,7 @@ speak@ninja>>> print("Hello World")
 
 Have you ever confused 😕 about how to start public speaking in Tech Industry? which conferences are looking for speakers? how to deliver a talk? or need recommendation of public speaking resources?
 
-Speakninja will deliver up-to-date 📢 Call for Proposals (CFPs), Inspiration talk and video speaking tips and all public speaking resources 📚 straight to your 📥 inbox.
+Speakninja is a newsletter that deliver up-to-date 📢 Call for Proposals (CFPs), Inspiration talk and video 📹, speaking tips and all public speaking resources 📚 straight to your 📥 inbox.
 
 ## Batteries Included
 
