@@ -1,9 +1,13 @@
 ---
-layout: articles
+layout: article
 titles:
   en: Speakninja - Season 1
 key: page-about
 ---
+
+```python
+speak@ninja ~/speakninja.github.io$ print("Hello World")
+```
 
 ## What is it?
 
@@ -16,7 +20,7 @@ Speakninja deliver up-to-date Call for Proposals (CFPs), Inspiration talk and vi
   - Call for Proposals Update
   - Inspirational Talk and Video
   - Speaking Tips
-  - Public Speaking Resource<
+  - Public Speaking Resource
   - Podcast (Coming Early 2019)
 
 
