@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Speakninja
 description: > # this means to ignore newlines until "Language & timezone"
-  Curated resources of Science Technology Engineering Math (STEM) Public Speaking
+  Speakninja is opensource newsletter, we deliver resources of Public Speaking in Science Technology Engineering Math (STEM) straight to your 📥 inbox. speakninja want to encourage more underrepresented fancy 🎩 people to speak and show others that there is a place for them in the Tech Industry.
 
 
 ## => Language and Timezone
@@ -36,17 +36,17 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : Rizky Ariestiyansyah
-  url       :
+  url       : https://oonlab.com
   avatar    : # path or url of avatar image
-  bio       : Tech Speaker.
+  bio       : Researcher, Mozilla Tech Speaker and PSF Fellow Member. I wear the same t-shirt everyday, and I have company. That's it!
   email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  facebook  : edXius # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : ariestiyansyah # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : ariestiyansyah # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 

@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: Speakninja - Season 1
+  en: Season 1
 key: page-about
 ---
 
@@ -11,7 +11,7 @@ speak@ninja>>> print("Hello World")
 
 ## What is it?
 
-Have you ever confused 😕 about how to start public speaking in Tech Industry? which conferences are looking for speakers? how to deliver a talk? or need recommendation of public speaking resources?
+Have you ever confused 😕 about how to start public speaking in Tech Industry? which conferences are looking for speakers? how to deliver a talk? or looking for public speaking resources?
 
 Speakninja is a newsletter that deliver up-to-date 📢 Call for Proposals (CFPs), Inspiration talk and video 📹, speaking tips and all public speaking resources 📚 straight to your 📥 inbox.
 
@@ -30,7 +30,7 @@ You can read our [archive](http://tinyletter.com/speakninja/archive), but the na
 
 ## Contribute
 
-You can contribute to speakninja by sharing your resources to [rizky@speak.ninja](mailto:rizky@speak.ninja) or creating issue [here](https://github.com/speakninja/speakninja/issues). 
+You can contribute to speakninja by sharing your resources to [rizky@[at]speak.ninja](mailto:rizky@speak.ninja) or creating issue [here](https://github.com/speakninja/speakninja/issues). 
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/speakninja" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/speakninja', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Join speakninja now!</label></p><p><input type="text" style="width:200px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/speakninja" target="_blank">powered by TinyLetter</a></p></form>
          
