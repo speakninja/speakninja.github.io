@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: Tech Speaker Newsletter - Season 1
+  en: Speak like Ninja
 key: page-about
 ---
 
