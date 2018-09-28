@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Speakninja
 description: > # this means to ignore newlines until "Language & timezone"
-  Speakninja is opensource newsletter, we deliver resources of Public Speaking in Science Technology Engineering Math (STEM) straight to your 📥 inbox. speakninja want to encourage more underrepresented fancy 🎩 people to speak and show others that there is a place for them in the Tech Industry.
+  Speakninja is opensource newsletter, we deliver Public Speaking resources in Science Technology Engineering Math (STEM) straight to your 📥 inbox. speakninja want to encourage more underrepresented fancy 🎩 people to speak and show others that there is a place for them in the Tech Industry.
 
 
 ## => Language and Timezone
