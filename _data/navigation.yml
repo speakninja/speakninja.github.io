@@ -6,5 +6,8 @@ header:
       en:       Podcast (2019)
     url:        /podcast.html
   - titles:
+      en:       Contributor
+    url:        /contributor.html
+  - titles:
       en:       About
     url:        /about.html
