@@ -198,7 +198,7 @@ pwa:
   precache_recent_posts_num: 5 # Optional
   precache_glob_directory: / # Optional
   precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - "{js,css,fonts,assets}/**/*.{js,css,eot,svg,ttf,woff}"
     - index.html
   precache_glob_ignores: # Optional
     - sw-register.js

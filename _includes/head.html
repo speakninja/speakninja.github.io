@@ -22,6 +22,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ __return }}">
 
 {%- include snippets/prepend-baseurl.html path='/assets/site.webmanifest' -%}
+<link rel="manifest" href="/manifest.json">
 <link rel="manifest" href="{{ __return }}">
 
 {%- include snippets/prepend-baseurl.html path='/assets/safari-pinned-tab.svg' -%}
@@ -39,8 +40,13 @@
 <!-- end favicon -->
 
 {%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
-<link rel="stylesheet" href="{{ __return }}">
+<link rel="preload" href="{{ __return }}" as="style" >
+<link rel="stylesheet" href="{{ __return }}" async>
 
 {%- include snippets/get-sources.html -%}
 {%- assign _sources = __return -%}
-<link rel="stylesheet" href="{{ _sources.font_awesome }}" >
+<link rel="dns-prefetch" href="https://use.fontawesome.com/"> 
+<link rel="dns-prefetch" href="https://cdn.bootcss.com/"> 
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/"> 
+<link rel="{{ _sources.font_awesome.rel }}" href="{{ _sources.font_awesome.src }}" crossorigin="anonymous" as="style">
+<link rel="stylesheet" href="{{ _sources.font_awesome.src }}" crossorigin="anonymous" defer>

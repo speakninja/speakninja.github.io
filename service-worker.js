@@ -20,12 +20,12 @@ workbox.routing.registerRoute(
 
 // use `cacheFirst` strategy for images
 workbox.routing.registerRoute(
-    /assets\/(img|icons)/,
+    /assets\/.*(\.css|js|png|jpg|ico|svg|xml|webmanifest)/g,
     workbox.strategies.cacheFirst()
 );
 
 // third party files
 workbox.routing.registerRoute(
-    /^https?:\/\/cdn.staticfile.org/,
+    /^https?:\/\/use.fontawesome.com|cdn.bootcss.com|cdnjs.cloudflare.com/,
     workbox.strategies.staleWhileRevalidate()
 );
