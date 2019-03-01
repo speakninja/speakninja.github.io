@@ -16,4 +16,6 @@ Speakninja will not exist without the help of contributors
 
 ## Contribute?
 
+Speakninja is open source newsletter, which means you can find everything open at our <a href="https://github.com/speakninja">Github</a> and <a href="https://www.notion.so/ariestiyansyah/6a46090b3c204e7dabdd4a1fb317ee1c?v=312279423b5e48a2a4b61da8dd0cfcc7">Notion</a>, you can help us submit issue and comment with CFP and content.
+
 You may contact us at [rizky[at]speak.ninja](mailto:rizky@speak.ninja)
