@@ -11,6 +11,8 @@ Speakninja will not exist without the help of contributors
 
 - Alif Firdaus (Designed Speakninja logo)
 - Rochyana Sapta Wibawa (Content)
+- Riza Fahmi (Content)
+- Adysurya Agus (Twitter Bot)
 
 ## Contribute?
 
